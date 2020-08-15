@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Clima-Flutter\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\rodan\\.gradle\\caches\\transforms-2\\files-2.1\\19e07ef27262353bfade2175b3cb485a\\core-1.2.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Clima-Flutter\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\rodan\\.gradle\\caches\\transforms-2\\files-2.1\\19e07ef27262353bfade2175b3cb485a\\core-1.2.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Clima-Flutter\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\rodan\\.gradle\\caches\\transforms-2\\files-2.1\\19e07ef27262353bfade2175b3cb485a\\core-1.2.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Clima-Flutter\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\rodan\\.gradle\\caches\\transforms-2\\files-2.1\\19e07ef27262353bfade2175b3cb485a\\core-1.2.0\\res\\layout-v21\\notification_action.xml"
+    }
+]
